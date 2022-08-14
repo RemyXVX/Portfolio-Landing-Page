@@ -11,7 +11,7 @@
 * GitBash
 
 ## Description
-_{A portfolio of the works I've done thus far. Applying all the skills I've learn to creat a webpage to display them}_
+_A portfolio of the works I've done thus far. Applying all the skills I've learn to creat a webpage to display them_
 
 ## Setup/Installation Requirements
 * _Copy/clone repo on your device_
