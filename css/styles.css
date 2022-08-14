@@ -1,13 +1,15 @@
 body {
   font-size: medium;
-  margin: 15px;
+  margin: 100px;
   border-top: 5px solid rgb(24, 23, 24);
   border-bottom: 5px solid rgb(17, 17, 17);
   border-right: 150px solid beige;
   border-left: 150px solid beige; 
-  padding: 50px;
+  padding: 0px;
   background-color: beige;
+  background-image: url(../img/pusheen.jpg);
 }
+
 .pic {
   display: block;
   margin-left: auto;
@@ -20,10 +22,15 @@ body {
   opacity: .97;
 }
 
+.outer {
+  background-image: url(../img/pusheen.jpg);
+  background-repeat: repeat;
+}
+
 .inner1 {
   border-left: 100px solid aliceblue;
   border-right: 100px solid aliceblue;
-  border-top: 5px solid aliceblue;
+  border-top: 20px solid aliceblue;
   border-bottom: 25px solid aliceblue;
   background-color: aliceblue;
 }
@@ -32,6 +39,7 @@ body {
   box-sizing: border-box;
   border: 5px solid black;
   padding-bottom: 25px;
+  background-color: rgba(204, 167, 184, 0.562);
 }
 
 ol {
