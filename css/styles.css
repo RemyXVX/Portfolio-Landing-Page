@@ -36,6 +36,7 @@ body {
   width: 25px;
   object-fit: contain;
   opacity: .70;
+  float: left;
 }
 
 .inner1 {
