@@ -19,7 +19,7 @@ _A portfolio of the works I've done thus far. Applying all the skills I've learn
 
 
 ## Known Bugs
-* _N/A_
+* _Website linked in the jpegs for projects are broken_
 * _If any bugs do appear please email: remyfranciscoflores@gmail.com_
 
 ## License
