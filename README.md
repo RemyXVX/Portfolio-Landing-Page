@@ -14,7 +14,7 @@
 _A portfolio of the works I've done thus far. Applying all the skills I've learn to creat a webpage to display them_
 
 ## Webpage
-* _ https://remyxvx.github.io/Portfolio-Landing-Page/ _
+* https://remyxvx.github.io/Portfolio-Landing-Page/
 
 ## Setup/Installation Requirements
 * _Copy/clone repo on your device_
