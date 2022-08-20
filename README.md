@@ -1,5 +1,4 @@
 # Portfolio Landing Page
-* _Webpage url: https://remyxvx.github.io/Portfolio-Landing-Page/ _
 
 #### By Remy Flores
 
@@ -13,6 +12,9 @@
 
 ## Description
 _A portfolio of the works I've done thus far. Applying all the skills I've learn to creat a webpage to display them_
+
+## Webpage
+* _ https://remyxvx.github.io/Portfolio-Landing-Page/ _
 
 ## Setup/Installation Requirements
 * _Copy/clone repo on your device_
